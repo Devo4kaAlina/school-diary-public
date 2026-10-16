@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Diary+
 // @version      0.0.1
-// @downloadURL  https://raw.githubusercontent.com/Devo4kaAlina/school-diary-public/diary-plus.user.js
-// @updateURL    https://raw.githubusercontent.com/Devo4kaAlina/school-diary-public/diary-plus.meta.js
+// @downloadURL  https://raw.githubusercontent.com/Devo4kaAlina/school-diary-public/refs/heads/main/diary-plus.user.js
+// @updateURL    https://raw.githubusercontent.com/Devo4kaAlina/school-diary-public/refs/heads/main/diary-plus.meta.js
 // @match        https://vseosvita.ua/go/olp/study/diary*
 // @require      https://cdn.jsdelivr.net/npm/preact@10.29.8/dist/preact.min.js
 // ==/UserScript==
